@@ -1,0 +1,27 @@
+h1 {
+  font-family : fantasy;
+  text-align: center;
+  background:#d91616;
+}
+
+h2 {
+    font-family : monospace;
+    font-size: 28px;
+}
+
+h3#finalMessage {
+  font-family : fantasy;
+  text-align: center;
+  color: #00ff00;
+  font-size: 60px;
+}
+table {
+  border-collapse: collapse;
+  border-style: solid;
+  margin: auto auto auto auto;
+}
+
+table td {
+  border: 3px solid black;
+  font-size: 50px;
+}
